@@ -1,7 +1,8 @@
-package com.wangzai.rvadapterforkotlin.base
+package com.wangzai.rvadapter.base
 
 import android.content.Context
 import android.support.v4.util.SparseArrayCompat
+import java.lang.IllegalArgumentException
 
 /**
  * itemView管理器

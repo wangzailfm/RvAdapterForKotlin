@@ -1,4 +1,4 @@
-package com.wangzai.rvadapterforkotlin.base
+package com.wangzai.rvadapter.base
 
 import android.content.Context
 

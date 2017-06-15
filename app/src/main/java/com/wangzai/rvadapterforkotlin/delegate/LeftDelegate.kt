@@ -1,9 +1,9 @@
 package com.wangzai.rvadapterforkotlin.delegate
 
 import android.content.Context
+import com.wangzai.rvadapter.base.DelegateType
+import com.wangzai.rvadapter.base.ViewHolder
 import com.wangzai.rvadapterforkotlin.R
-import com.wangzai.rvadapterforkotlin.base.DelegateType
-import com.wangzai.rvadapterforkotlin.base.ViewHolder
 import com.wangzai.rvadapterforkotlin.bean.TestBean
 import com.wangzai.rvadapterforkotlin.toast
 import kotlinx.android.synthetic.main.item_left.view.*

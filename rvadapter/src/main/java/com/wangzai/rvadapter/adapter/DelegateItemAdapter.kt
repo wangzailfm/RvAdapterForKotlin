@@ -1,11 +1,11 @@
-package com.wangzai.rvadapterforkotlin.adapter
+package com.wangzai.rvadapter.adapter
 
 import android.content.Context
 import android.support.v7.widget.RecyclerView
 import android.view.ViewGroup
-import com.wangzai.rvadapterforkotlin.base.DelegateManager
-import com.wangzai.rvadapterforkotlin.base.DelegateType
-import com.wangzai.rvadapterforkotlin.base.ViewHolder
+import com.wangzai.rvadapter.base.DelegateManager
+import com.wangzai.rvadapter.base.DelegateType
+import com.wangzai.rvadapter.base.ViewHolder
 
 /**
  * itemView适配器，有多少类型就要添加多少个Delegate，并且不能添加相同的Delegate，不然会抛异常

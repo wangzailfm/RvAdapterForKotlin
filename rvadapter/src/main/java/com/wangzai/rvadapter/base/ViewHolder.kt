@@ -1,4 +1,4 @@
-package com.wangzai.rvadapterforkotlin.base
+package com.wangzai.rvadapter.base
 
 import android.content.Context
 import android.support.v7.widget.RecyclerView
