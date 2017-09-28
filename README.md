@@ -1,6 +1,13 @@
 # RvAdapterForKotlin
 使用Kotlin写的实现Android的Recyclerview的多种item布局
 
+## Gradle
+```gradle
+dependencies {
+    ...
+    compile 'com.jowanlfm.support:rvadapter:1.0.0'
+}
+```
 
 ## 使用
 
